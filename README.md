@@ -1,4 +1,6 @@
 # SimpleHttp
-http request and download file in Qt
+Http request and download file in Qt
 
-example: deme/simpleHttpDemo
+Compile static library with pro file
+
+Example: deme/simpleHttpDemo
